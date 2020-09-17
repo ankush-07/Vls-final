@@ -11,6 +11,7 @@ public class SpringBootJpaApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Spring boot jpa");
+		System.out.println("Hello Spring boot jpa changes by Github");
 		SpringApplication.run(SpringBootJpaApplication.class, args);
 	}
 
